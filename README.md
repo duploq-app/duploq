@@ -1,4 +1,4 @@
-# duploq
+# DuploQ
 DuploQ is a GUI frontend for [Duplo](https://github.com/dlidstrom/Duplo) duplicate finder console tool.
 Its goal is to find duplicates (i.e. copy-pasted parts of code) across several source files.
 
