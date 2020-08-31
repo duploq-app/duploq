@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=DuploQ
+Version=0.1
+Exec=duploq
+Comment=Duplo GUI Frontend
+Icon=/usr/share/duploq/duploq.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Development;Qt;Utility;
+
