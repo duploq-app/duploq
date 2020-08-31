@@ -2,7 +2,7 @@
 DuploQ is a GUI frontend for [Duplo](https://github.com/dlidstrom/Duplo) duplicate finder console tool.
 Its goal is to find duplicates (i.e. copy-pasted parts of code) across several source files.
 
-![duploq screenshot](duploq.png "A screenshot")
+![duploq-0 1-linux-1](https://user-images.githubusercontent.com/70297699/91775216-d4020c00-ebea-11ea-9b18-ceeb7e05cc2b.PNG)
 
 Currently DuploQ directly supports C, C++, C#, Java and JavaScript languages, but it can be used for other languages as well.
 
